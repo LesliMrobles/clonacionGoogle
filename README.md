@@ -21,10 +21,10 @@ En este proyecto me enfoque en contruir la Clonación de la Interfaz de Google. 
 
 * **Main**: Seccion del contenedor para los elementos centrales de la página: logo, barra de busqueda, íconos y botones.
 
-* **Footer**: Seccion que incluque hipervínvulos al final de la página.
+* **Footer**: Seccion que incluque hipervínvulos al final de la página.✨🖇
 
-## 3. Objetivo del Proyecto
-Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3 
+## 3. Objetivo del Proyecto:
+📌Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3 
 
 ## 4. Link al DEMO
 

@@ -28,4 +28,4 @@ Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3
 
 ## 4. Link al DEMO
 
-Aqui puedes visualizar mi proyecto terminado: [Clonación de Google](link)
+Aqui puedes visualizar mi proyecto terminado: [Clonación de Google](https://snazzy-lamington-7d9adb.netlify.app/)
